@@ -1,0 +1,6 @@
+SELECT [CustomerID]
+        ,[Name]
+        ,[Adress]
+        ,[Phone]
+        ,[ContactName]
+FROM [dbo].[CUSTOMERS]
